@@ -1,7 +1,7 @@
 // src/App.js
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import Home from '../src/Home';
-import Sorteio from '../src/Sorteio';
+import { HashRouter as Router, Routes, Route } from 'react-router-dom';
+import Home from './Home';
+import Sorteio from './Sorteio';
 
 function App() {
   return (
