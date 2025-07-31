@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rollete-volleyball/static/css/main.eb7c440b.css",
+    "main.js": "/rollete-volleyball/static/js/main.c381db67.js",
+    "static/js/453.3b1ed42f.chunk.js": "/rollete-volleyball/static/js/453.3b1ed42f.chunk.js",
+    "index.html": "/rollete-volleyball/index.html",
+    "main.eb7c440b.css.map": "/rollete-volleyball/static/css/main.eb7c440b.css.map",
+    "main.c381db67.js.map": "/rollete-volleyball/static/js/main.c381db67.js.map",
+    "453.3b1ed42f.chunk.js.map": "/rollete-volleyball/static/js/453.3b1ed42f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb7c440b.css",
+    "static/js/main.c381db67.js"
+  ]
+}
